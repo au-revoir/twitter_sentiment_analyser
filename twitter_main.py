@@ -5,11 +5,11 @@ import json
 
 import sentiment_mod as s
 
-
-ckey="Rrw4gqhc0Y4LycfxKkJHFuQ0a"
-csecret="C0OXe5q5FpbdOJV2rCxZlEWxww9xw4fJJNdvmOqWBPl9L8GCs7"
-atoken="784453754435145728-knPy1cMxg6UEplq76DCGrRICtw7An9A"
-asecret="umxnwOaHMrgolAo7XpRfSQ2kVMpJ8uhdzoEIOowBTmojj"
+#Enter your api tokens
+ckey="************"
+csecret="***********"
+atoken="*************"
+asecret="************"
 
 from twitterapistuff import *
 
